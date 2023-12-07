@@ -2,7 +2,7 @@
 
 # dotenv
 .env
-.gitignore
+gitignore
 
 # virtualenv
 .venv
