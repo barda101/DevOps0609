@@ -14,7 +14,7 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 print("Hi")
-print ("OK")
+print("OK")
 
 if 1 == 1:
     print("1")
